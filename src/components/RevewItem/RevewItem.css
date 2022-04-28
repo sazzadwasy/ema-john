@@ -15,6 +15,11 @@
 
 .review-item-detail p {
     margin: 0;
+    font-weight: 500;
+}
+
+.review-item-detail {
+    margin-left: 8px;
 }
 
 .review-item-details-container {
